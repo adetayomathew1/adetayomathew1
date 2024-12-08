@@ -1,6 +1,6 @@
-# Welcome to my Github, I'm Simon!
+# Welcome to my Github, I'm Mathew!
 
-I have a Bachelor's of Science degree in Information Technology with a strong passion in the IT and Cybersecurity field! 
+I have a Bachelor's of Science degree in Physics Electronics with a strong passion in the IT and Cybersecurity field! 
 
 ## Objective
 
