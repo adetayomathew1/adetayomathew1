@@ -51,11 +51,8 @@ In this Github Repository, I have presented a range of projects that highlight m
 
 
 ## Certifications
-<div>
-   <a href="https://www.credly.com/badges/20728c2d-1326-4497-b9f9-6cfa9fbfcd4a/linked_in?t=skyejw" target="_blank">
-      <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-   </a>
-</div>
+Preparing for comptia A+
+preparing for security +
 
 
 
