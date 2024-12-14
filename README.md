@@ -8,7 +8,7 @@ In this Github Repository, I have presented a range of projects that highlight m
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- [IT Helpdesk Home Lab Series](https://github.com/Simokid/IT-Helpdesk-Lab-Series/tree/main)
+- [IT Helpdesk Home Lab Series](https://github.com/adetayomathew1/Help-Desk-Lab-series)
 - [Microsoft Office 365 Admin Center Home Lab](https://github.com/Simokid/Microsoft-Office-365-Admin-Center-Lab)
 
 
