@@ -1,6 +1,6 @@
 # Welcome to my Github, I'm Mathew!
 
-I have a Bachelor's of Science degree in Physics Electronics with a strong passion in the IT and Cybersecurity field! 
+I have a Bachelor's of Science degree in Physics Electronics with a strong passion in the IT and Quantum computing
 
 ## Objective
 
